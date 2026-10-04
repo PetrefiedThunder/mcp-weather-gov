@@ -47,3 +47,9 @@ npx mcp-weather-gov
 ## License
 
 MIT
+
+## Environment variables
+
+| Variable | Default | Purpose |
+|---|---|---|
+| `CONTACT_EMAIL` | `amw-dogfood@agentmail.to` | Contact address sent to the upstream API. api.weather.gov requires a User-Agent that identifies the application and a contact. Set it to an address you monitor. |
