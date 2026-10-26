@@ -46,7 +46,7 @@ npx mcp-weather-gov
 
 ## License
 
-MIT
+Apache-2.0
 
 ## Environment variables
 
